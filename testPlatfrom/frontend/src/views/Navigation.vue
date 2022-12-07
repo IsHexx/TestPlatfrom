@@ -10,7 +10,7 @@
       <el-submenu index="2">
         <template slot="title"><i class="el-icon-location"></i><span>UI自动化</span></template>
         <el-menu-item index="/index/elementManage">元素库</el-menu-item>
-        <el-menu-item index="/index/caseManage">用例</el-menu-item>
+        <el-menu-item index="/index/caseManage">用例库</el-menu-item>
         <el-menu-item index="/index/menu3">测试报告</el-menu-item>
       </el-submenu>
     </el-menu>
